@@ -27,10 +27,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <br>
 <br>
 
->Link: 
+>Link: https://calculadora-wvn.netlify.app/
 
 <br>
 
+![calculadora](https://user-images.githubusercontent.com/89936463/186457583-0ffa2545-4548-46ed-a984-7e81c749ab91.PNG)
 
 <br>
 <br>
