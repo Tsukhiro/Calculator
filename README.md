@@ -22,9 +22,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🎨 Preview do Layout
 
-<br>
-<br>
-
 >Link: https://calculadora-wvn.netlify.app/
 
 <br>
